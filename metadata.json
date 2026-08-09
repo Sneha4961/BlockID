@@ -1,0 +1,6 @@
+{
+  "name": "BlockID",
+  "description": "Decentralized Digital Identity & Verification platform powered by blockchain smart contracts, self-sovereign DIDs, zero-knowledge proofs, and AI verification.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
