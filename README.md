@@ -1,10 +1,9 @@
-# BlockID
+# Project Title : BlockID [HackMatrix2026]
 
 BlockID is a Decentralized Digital Identity & Verification platform powered by blockchain smart contracts, self-sovereign DIDs, zero-knowledge proofs, and AI verification.
 
 ## Team Name
 **DecentraTrust Innovators**  
-*Madhav Institute of Technology & Science (MITS)*
 
 ---
 
@@ -27,13 +26,13 @@ BlockID implements a W3C-compliant Self-Sovereign Identity (SSI) and Zero-Knowle
 
 ---
 
-## PPT Link
-[Link to Presentation / Pitch Deck](https://github.com/Sneha4961/BlockID) *(Update with your presentation link)*
+## PPT Link 
+https://drive.google.com/file/d/1ESPGUOpu443FUA8K04adXjYs8EYlFosM/view?usp=drive_link
 
 ---
 
 ## Live Demonstration Link
-[Link to Live Demonstration](https://github.com/Sneha4961/BlockID) *(Update with your live deployment link)*
+https://drive.google.com/file/d/1yopohgC95jclu8UupH3m0UCNGQ9stj_o/view
 
 ---
 
@@ -47,7 +46,7 @@ BlockID implements a W3C-compliant Self-Sovereign Identity (SSI) and Zero-Knowle
 
 ## Team Members
 * **Sneha** ([@Sneha4961](https://github.com/Sneha4961))
-* *(Add other team members here)*
+
 
 ---
 
